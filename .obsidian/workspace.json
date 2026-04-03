@@ -217,19 +217,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "404f73c39fffaf21",
+  "active": "4200e31d3d0eae6f",
   "lastOpenFiles": [
-    "5-Periodic Notes/Untitled",
-    "4-Archive",
-    "5-Periodic Notes",
     "Templates/Monthly Template.md",
     "Templates/Daily Template.md",
-    "Templates/Weekly Template.md",
     "README.md",
+    "Templates/Weekly Template.md",
+    "5-Periodic Notes/5.3-Monthly",
+    "5-Periodic Notes/5.2-Weekly",
+    "5-Periodic Notes/5.1-Daily/Untitled",
+    "5-Periodic Notes/5.1-Daily",
+    "4-Archive",
+    "5-Periodic Notes",
     "2-Outcomes",
     "3-Resources",
-    "1-Processing",
-    "0-Inbox",
-    "Templates"
+    "1-Projects",
+    "0-Inbox"
   ]
 }
