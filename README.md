@@ -13,7 +13,8 @@
 
 ###### Create the folders
 
-$ tree -L 2 -I "node_modules|.git" --dirsfirst
+`tree -L 2 -I "node_modules|.git" --dirsfirst`
+
 ```
 .
 ├── 0-Inbox

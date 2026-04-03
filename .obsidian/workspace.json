@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Weekly Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Weekly Template"
             }
           }
         ],
@@ -217,16 +217,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4200e31d3d0eae6f",
+  "active": "404f73c39fffaf21",
   "lastOpenFiles": [
+    "5-Periodic Notes/Untitled",
+    "4-Archive",
+    "5-Periodic Notes",
+    "Templates/Monthly Template.md",
+    "Templates/Daily Template.md",
     "Templates/Weekly Template.md",
+    "README.md",
     "2-Outcomes",
     "3-Resources",
     "1-Processing",
     "0-Inbox",
-    "Templates/Monthly Template.md",
-    "Templates/Daily Template.md",
-    "README.md",
     "Templates"
   ]
 }
