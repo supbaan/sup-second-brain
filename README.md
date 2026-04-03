@@ -14,6 +14,7 @@
 ###### Create the folders
 
 $ tree -L 2 -I "node_modules|.git" --dirsfirst
+```
 .
 ├── 0-Inbox
 ├── 1-Processing
@@ -24,6 +25,7 @@ $ tree -L 2 -I "node_modules|.git" --dirsfirst
 │   ├── Monthly Template.md
 │   └── Weekly Template.md
 └── README.md
+```
 ###### Install Plugins
 
 - Calendar
