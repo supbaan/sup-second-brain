@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:Templates/Daily Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
+}
